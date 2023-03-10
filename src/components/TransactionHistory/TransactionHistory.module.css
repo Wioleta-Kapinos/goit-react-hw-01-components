@@ -1,0 +1,23 @@
+.table {
+    margin: 30px; 
+}
+.thead {
+    color: white;
+    text-transform: uppercase;
+    background-color: lightseagreen;
+    padding: 20px;
+    letter-spacing: 0.05rem;
+}
+td {
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;
+    color: gray;
+    border-right: 0.5px solid darkgray;
+}
+td:first-child {
+    border-left: 0.5px solid darkgray;
+}
+.table > tbody > tr:nth-child(2n) {
+    background-color: lightgray;
+  }
