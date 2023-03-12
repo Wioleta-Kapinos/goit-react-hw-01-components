@@ -4,9 +4,10 @@
     background-color: white;
     margin: 10px auto;
     width: 45vh;
-    border: 3px solid lightgray;
+    border-radius: 5px;
+    border: 1px solid lightgray; 
     padding: 10px 0;
-    box-shadow: 5px 5px 8px -3px gray;  
+    box-shadow: -3px 3px 5px 3px #6b6c6e;  
 }
 .name {
     font-size: 1.5rem;
