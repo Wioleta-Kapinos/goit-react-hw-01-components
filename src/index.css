@@ -20,9 +20,9 @@ code {
   flex-direction: column;
   margin: 0 auto;
 }
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .App {
-    width: 70%;
+    width: 60%;
   }
 }
 

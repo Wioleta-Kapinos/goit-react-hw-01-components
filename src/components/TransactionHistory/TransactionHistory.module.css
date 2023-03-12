@@ -1,5 +1,7 @@
 .table {
-    margin: 30px; 
+    margin: 30px auto; 
+    border-bottom: 0.5px solid darkgray;
+    border-radius: 5px;
 }
 .thead {
     color: white;
@@ -9,7 +11,7 @@
     letter-spacing: 0.05rem;
 }
 td {
-    padding: 15px;
+    padding: 15px 80px;
     text-align: center;
     font-weight: 500;
     color: gray;
