@@ -1,5 +1,6 @@
 .listOfFriends {
     display: flex;
     flex-direction: column;
-    padding-top: 30px;
+    margin: 0 auto;
+    padding: 0;  
 }

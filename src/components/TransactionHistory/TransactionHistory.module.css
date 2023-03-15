@@ -1,17 +1,17 @@
 .table {
-    margin: 30px auto; 
     border-bottom: 0.5px solid darkgray;
     border-radius: 5px;
+    margin: 30px auto;
 }
 .thead {
     color: white;
     text-transform: uppercase;
     background-color: lightseagreen;
-    padding: 20px;
+    padding: 15px;
     letter-spacing: 0.05rem;
 }
 td {
-    padding: 15px 80px;
+    padding: 10px 15px;
     text-align: center;
     font-weight: 500;
     color: gray;
@@ -22,4 +22,4 @@ td:first-child {
 }
 .table > tbody > tr:nth-child(2n) {
     background-color: lightgray;
-  }
+}

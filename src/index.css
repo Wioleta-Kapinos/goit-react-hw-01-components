@@ -15,17 +15,7 @@ code {
     monospace;
 }
 .App {
-  width: 40%;
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  margin: auto;
 }
-@media (max-width: 768px) {
-  .App {
-    width: 60%;
-  }
-}
-
-
-
-
